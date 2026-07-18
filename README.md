@@ -258,6 +258,7 @@ DESCRIPTION:
 ![Followers](https://img.shields.io/github/followers/Aayush049?style=for-the-badge&label=FOLLOWERS&color=7F52FF&labelColor=0D1117)
 ![Stars](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=STARS&query=%24.length&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAayush049%2Frepos%3Fper_page%3D100&color=3DDC84&labelColor=0D1117)
 
+<br/>
 
 <img src="https://streak-stats.demolab.com/?user=Aayush049&theme=github-dark-blue&background=0D1117&stroke=30363D&ring=3DDC84&fire=7F52FF&currStreakLabel=3DDC84&border=30363D" alt="GitHub Streak" width="60%"/>
 
