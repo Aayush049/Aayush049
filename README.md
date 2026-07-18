@@ -156,7 +156,7 @@ dependencies {
 }
 ```
 
-<div align="left">
+<div align="center">
 
 <p><b>Languages</b></p>
 <img src="https://skillicons.dev/icons?i=kotlin,java,python,c&theme=dark"/>
@@ -258,7 +258,7 @@ DESCRIPTION:
 ![Followers](https://img.shields.io/github/followers/Aayush049?style=for-the-badge&label=FOLLOWERS&color=7F52FF&labelColor=0D1117)
 ![Stars](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=STARS&query=%24.length&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAayush049%2Frepos%3Fper_page%3D100&color=3DDC84&labelColor=0D1117)
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=Aayush049&theme=github-dark-blue&background=0D1117&stroke=30363D&ring=3DDC84&fire=7F52FF&currStreakLabel=3DDC84&border=30363D" alt="GitHub Streak" width="60%"/>
 
@@ -318,7 +318,7 @@ Once self-hosted, it's yours alone and won't go down from other people's traffic
 <div align="center">
 
 <!-- Requires the GitHub Action setup below — will 404 until it runs once -->
-<img src="https://raw.githubusercontent.com/Aayush049/Aayush049/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
+<img src="https://raw.githubusercontent.com/Aayush049/Aayush049/output/github-contribution-grid-snake-dark.svg?v=1" alt="Contribution Snake" width="100%"/>
 
 > 🐍 *the snake eats my commits so the Gradle logs don't have to.*
 
