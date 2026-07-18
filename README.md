@@ -262,7 +262,7 @@ DESCRIPTION:
 
 <img src="https://streak-stats.demolab.com/?user=Aayush049&theme=github-dark-blue&background=0D1117&stroke=30363D&ring=3DDC84&fire=7F52FF&currStreakLabel=3DDC84&border=30363D" alt="GitHub Streak" width="60%"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aayush049&theme=react-dark&bg_color=0D1117&color=3DDC84&line=7F52FF&point=E6EDF3&border=30363D" alt="Contribution Graph" width="100%"/>
 
