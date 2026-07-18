@@ -155,8 +155,8 @@ dependencies {
     tools       ("Git", "Linux", "VS Code", "IntelliJ IDEA")
 }
 ```
-
-<div align="center">
+---
+<div align="left">
 
 <p><b>Languages</b></p>
 <img src="https://skillicons.dev/icons?i=kotlin,java,python,c&theme=dark"/>
