@@ -149,36 +149,14 @@ class MainActivity : ComponentActivity() {
 
 ```kotlin
 dependencies {
-
-    // Languages
-    implementation("lang:kotlin:primary")
-    implementation("lang:java:core")
-    implementation("lang:python:scripting-and-ml")
-    implementation("lang:c:systems-fundamentals")
-
-    // Android
-    implementation("android:studio:daily-driver")
-    implementation("androidx.compose:jetpack-compose:declarative-ui")
-    implementation("android:xml:legacy-views")
-    implementation("android:gradle:build-system")
-    implementation("google:firebase:backend-as-a-service")
-
-    // Backend
-    implementation("org.springframework:spring-boot:api-layer")
-    implementation("web:rest-apis:client-server")
-    implementation("postgresql:database:relational")
-    implementation("redis:cache:in-memory")
-
-    // Tools
-    implementation("git:version-control")
-    implementation("os:linux:dev-environment")
-    implementation("editor:vscode:scripting")
-    implementation("jetbrains:intellij-idea:jvm-development")
+    languages   ("Kotlin", "Java", "Python", "C")
+    android     ("Android Studio", "Jetpack Compose", "XML", "Gradle", "Firebase")
+    backend     ("Spring Boot", "REST APIs", "PostgreSQL", "Redis")
+    tools       ("Git", "Linux", "VS Code", "IntelliJ IDEA")
 }
 ```
----
 
-<div align="left">
+<div align="center">
 
 <p><b>Languages</b></p>
 <img src="https://skillicons.dev/icons?i=kotlin,java,python,c&theme=dark"/>
@@ -229,62 +207,40 @@ dependencies {
 
 ## `>` ls ./projects/ --details
 
-<!-- Replace each block below with a real project. -->
+<!-- Add more projects below as you ship them — same block format. -->
 
 <details>
-<summary><b>📱 Project One — Short Description</b></summary>
+<summary><b>🎓 Student Management System</b></summary>
 
 ```
-PROJECT : Project One
-TYPE    : Android Application
-STACK   : Kotlin · Jetpack Compose · Firebase
-REPO    : https://github.com/Aayush049/project-one
+PROJECT : student-management-kotlin
+TYPE    : Console-Based Application
+STACK   : Kotlin
+REPO    : https://github.com/Aayush049/student-management-kotlin
 
-FEATURES:
-  ✦ Feature one
-  ✦ Feature two
-  ✦ Feature three
+DESCRIPTION:
+  A console-based Student Management System developed in Kotlin.
 ```
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-Project%20One-3DDC84?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Aayush049/project-one)
+[![View Repo](https://img.shields.io/badge/View%20Repo-student--management--kotlin-3DDC84?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Aayush049/student-management-kotlin)
 
 </details>
 
 <details>
-<summary><b>📱 Project Two — Short Description</b></summary>
+<summary><b>💰 Expense Tracker</b></summary>
 
 ```
-PROJECT : Project Two
-TYPE    : Android Application
-STACK   : Kotlin · MVVM · Room DB
-REPO    : https://github.com/Aayush049/project-two
+PROJECT : expense-tracker-kotlin
+TYPE    : Console-Based Application
+STACK   : Kotlin · Clean Architecture · SOLID Principles
+REPO    : https://github.com/Aayush049/expense-tracker-kotlin
 
-FEATURES:
-  ✦ Feature one
-  ✦ Feature two
-  ✦ Feature three
+DESCRIPTION:
+  A Kotlin console application to manage daily expenses,
+  built using Clean Architecture and SOLID principles.
 ```
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-Project%20Two-3DDC84?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Aayush049/project-two)
-
-</details>
-
-<details>
-<summary><b>⚡ Project Three — [IN PROGRESS]</b></summary>
-
-```
-PROJECT : Project Three
-TYPE    : Android + Backend Integration
-STACK   : Kotlin · Spring Boot · REST API
-REPO    : [coming soon — actively building 🔨]
-
-FEATURES:
-  ✦ Feature one
-  ✦ Feature two
-  STATUS  : [██████░░░░░░░░ 40%]
-```
-
-![Coming Soon](https://img.shields.io/badge/Repo-Coming%20Soon-555555?style=for-the-badge&logo=github&logoColor=white)
+[![View Repo](https://img.shields.io/badge/View%20Repo-expense--tracker--kotlin-3DDC84?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Aayush049/expense-tracker-kotlin)
 
 </details>
 
@@ -298,14 +254,43 @@ FEATURES:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aayush049&show_icons=true&theme=github_dark&bg_color=0D1117&title_color=3DDC84&icon_color=7F52FF&text_color=E6EDF3&border_color=30363D&count_private=true" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aayush049&theme=github-dark-blue&background=0D1117&stroke=30363D&ring=3DDC84&fire=7F52FF&currStreakLabel=3DDC84&border=30363D" alt="GitHub Streak" width="49%"/>
+![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=REPOS&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAayush049&color=3DDC84&labelColor=0D1117)
+![Followers](https://img.shields.io/github/followers/Aayush049?style=for-the-badge&label=FOLLOWERS&color=7F52FF&labelColor=0D1117)
+![Stars](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=STARS&query=%24.length&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAayush049%2Frepos%3Fper_page%3D100&color=3DDC84&labelColor=0D1117)
 
-<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=Aayush049&theme=github-dark-blue&background=0D1117&stroke=30363D&ring=3DDC84&fire=7F52FF&currStreakLabel=3DDC84&border=30363D" alt="GitHub Streak" width="60%"/>
+
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aayush049&theme=react-dark&bg_color=0D1117&color=3DDC84&line=7F52FF&point=E6EDF3&border=30363D" alt="Contribution Graph" width="100%"/>
 
 </div>
+
+<!--
+  NOTE: the "Stars" badge above sums stars across your first 100 repos via
+  the raw GitHub API — accurate for now, but if you ever pass 100 repos it
+  will need per_page pagination. Fine for the foreseeable future.
+-->
+
+<details>
+<summary>Prefer the fuller stats card (repo count, commits, PRs, issues) instead?</summary>
+
+<br/>
+
+The classic all-in-one card is generated by a shared public service that
+frequently goes down from overload — that's the "broken image" you saw.
+The fix isn't a different URL, it's hosting your own copy (free, ~2 minutes):
+
+1. Go to https://github.com/anuraghazra/github-readme-stats
+2. Click **Deploy** → **Deploy with Vercel**
+3. Fork it into your own account and deploy — Vercel gives you a URL like
+   `your-name-github-readme-stats.vercel.app`
+4. Swap that URL into an `<img>` tag here in place of the badges above
+
+Once self-hosted, it's yours alone and won't go down from other people's traffic.
+
+</details>
 
 ---
 
@@ -363,13 +348,17 @@ FEATURES:
 <!-- 11. FOOTER MESSAGE                                            -->
 <!-- ============================================================ -->
 
-<div align="center">
+<table align="center"><tr><td>
 
 ```
 ayush@dev:~$ echo "Thanks for compiling this far. Let's build something great."
 Thanks for compiling this far. Let's build something great.
 ayush@dev:~$ █
 ```
+
+</td></tr></table>
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,50:3DDC84,100:0D1117&height=110&section=footer" width="100%"/>
 
