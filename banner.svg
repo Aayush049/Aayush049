@@ -1,0 +1,38 @@
+<svg viewBox="0 0 1600 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#0D1117"/>
+      <stop offset="35%"  stop-color="#161B22"/>
+      <stop offset="70%"  stop-color="#7F52FF"/>
+      <stop offset="100%" stop-color="#3DDC84"/>
+    </linearGradient>
+    <style>
+      .wave1 { animation: drift 9s ease-in-out infinite; transform-origin: 800px 220px; }
+      .wave2 { animation: drift 7s ease-in-out infinite reverse; transform-origin: 800px 220px; }
+      @keyframes drift {
+        0%   { transform: translateX(0px); }
+        50%  { transform: translateX(30px); }
+        100% { transform: translateX(0px); }
+      }
+      .fadein { animation: fadeIn 1.6s ease-out both; }
+      @keyframes fadeIn {
+        0%   { opacity: 0; transform: translateY(14px); }
+        100% { opacity: 1; transform: translateY(0px); }
+      }
+      .title { font: 700 44px 'Segoe UI', Verdana, sans-serif; fill: #FFFFFF; }
+      .desc  { font: 600 17px 'Segoe UI', Verdana, sans-serif; fill: #3DDC84; }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="1600" height="220" fill="url(#bg)"/>
+
+  <path class="wave1" d="M0,150 C200,190 400,110 600,150 C800,190 1000,110 1200,150 C1400,190 1500,140 1600,160 L1600,220 L0,220 Z"
+        fill="#0D1117" opacity="0.35"/>
+  <path class="wave2" d="M0,175 C220,205 420,140 640,170 C860,200 1060,140 1280,170 C1440,190 1520,165 1600,180 L1600,220 L0,220 Z"
+        fill="#161B22" opacity="0.55"/>
+
+  <g class="fadein" text-anchor="middle">
+    <text x="800" y="98" class="title">Ayush Srivastava</text>
+    <text x="800" y="132" class="desc">⚡ Android &amp; Mobile Engineer  |  Jetpack Compose  |  Kotlin</text>
+  </g>
+</svg>
