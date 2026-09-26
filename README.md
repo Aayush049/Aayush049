@@ -1,17 +1,12 @@
 <div align="center">
 
 <!-- ANDROID STATUS BAR SIMULATION -->
-<p align="center">
+<!-- <p align="center">
   <code><b>📶 5G</b> &nbsp; • &nbsp; <b>🔋 100%</b> &nbsp; • &nbsp; <b>📍 India</b> &nbsp; • &nbsp; <b>☕ <code>build.gradle.kts: OK</code></b></code>
-</p>
+</p> -->
 
 <!-- DYNAMIC HERO BANNER (self-hosted, no external render service) -->
 <img src="banner.svg" width="100%" alt="Ayush Srivastava - Android Developer"/>
-
-<!-- PROFILE VIEWS + TYPING TERMINAL -->
-<a href="https://github.com/Aayush049">
-  <img src="https://komarev.com/ghpvc/?username=Aayush049&color=3DDC84&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-</a>
 
 <br/><br/>
 
@@ -21,6 +16,11 @@
 
 <br/><br/>
 
+<!-- PROFILE VIEWS + TYPING TERMINAL -->
+<a href="https://github.com/Aayush049">
+  <img src="https://komarev.com/ghpvc/?username=Aayush049&color=3DDC84&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+</a>
+&nbsp;
 <a href="https://github.com/Aayush049">
   <img src="https://img.shields.io/badge/GitHub-3DDC84?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
 </a>
@@ -144,7 +144,9 @@ dependencies {
 
 ## `>` ls ./projects/ --details
 
-**☕ Brewly**
+<details>
+<summary><b>☕ Brewly</b></summary>
+<br/>
 
 ```
 PROJECT : Brewly
@@ -161,7 +163,13 @@ DESCRIPTION:
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-Brewly-3DDC84?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Aayush049/Brewly)
 
-**📄 Folio**
+</details>
+
+<br/>
+
+<details>
+<summary><b>📄 Folio</b></summary>
+<br/>
 
 ```
 PROJECT : Folio
@@ -177,7 +185,13 @@ DESCRIPTION:
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-Folio-3DDC84?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Aayush049/Folio)
 
-**💰 SpendWise**
+</details>
+
+<br/>
+
+<details>
+<summary><b>💰 SpendWise</b></summary>
+<br/>
 
 ```
 PROJECT : SpendWise
@@ -193,7 +207,13 @@ DESCRIPTION:
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-SpendWise-3DDC84?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Aayush049/SpendWise)
 
-**🎓 LearnMate AI — Mobile Client** <sub>· team project</sub>
+</details>
+
+<br/>
+
+<details>
+<summary><b>🎓 LearnMate AI — Mobile Client</b> <sub>· team project</sub></summary>
+<br/>
 
 ```
 PROJECT : Learn_Mate_App
@@ -211,7 +231,13 @@ DESCRIPTION:
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-Learn__Mate__App-3DDC84?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Aayush049/Learn_Mate_App)
 
-**💵 Expense Tracker**
+</details>
+
+<br/>
+
+<details>
+<summary><b>💵 Expense Tracker</b></summary>
+<br/>
 
 ```
 PROJECT : expense-tracker-kotlin
@@ -226,7 +252,13 @@ DESCRIPTION:
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-expense--tracker--kotlin-3DDC84?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Aayush049/expense-tracker-kotlin)
 
-**🎓 Student Management System**
+</details>
+
+<br/>
+
+<details>
+<summary><b>🎓 Student Management System</b></summary>
+<br/>
 
 ```
 PROJECT : student-management-kotlin
@@ -239,6 +271,8 @@ DESCRIPTION:
 ```
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-student--management--kotlin-3DDC84?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Aayush049/student-management-kotlin)
+
+</details>
 
 ---
 
@@ -268,11 +302,13 @@ DESCRIPTION:
 
 ---
 
-## `>` a long time ago, in a repo far, far away...
+## `>` ./gh-space-shooter --launch
 
 <div align="center">
 
-[![Star Wars Banner](https://capsule-render.vercel.app/api?type=starWars&color=0:0D1117,50:7F52FF,100:3DDC84&height=300&section=header&text=Ayush%20Srivastava&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&desc=Compiling%20ambition%20into%20APKs%20since%202024&descAlignY=62&descSize=16)](https://github.com/Aayush049)
+![My GitHub Game](game.gif)
+
+<sub>Every green square in my contribution graph is now an enemy. Updates daily via GitHub Actions.</sub>
 
 </div>
 
