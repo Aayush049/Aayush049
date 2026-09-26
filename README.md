@@ -14,23 +14,23 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=3DDC84&background=00000000&center=true&vCenter=true&width=680&lines=%24+whoami+%E2%86%92+Android+%2B+Flutter+Developer;%24+stack+%3D+listOf(%22Kotlin%22%2C+%22Compose%22%2C+%22Flutter%22);%24+status+%E2%86%92+Compiling+ambition+into+APKs;%24+currently_building+%E2%86%92+LearnMate+AI+(team+project)" alt="Typing SVG"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <!-- PROFILE VIEWS + TYPING TERMINAL -->
 <a href="https://github.com/Aayush049">
-  <img src="https://komarev.com/ghpvc/?username=Aayush049&color=3DDC84&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Aayush049&style=for-the-badge&label=PROFILE+VIEWS&color=3DDC84&labelColor=0D1117" alt="Profile Views"/>
 </a>
 &nbsp;
 <a href="https://github.com/Aayush049">
-  <img src="https://img.shields.io/badge/GitHub-3DDC84?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-7F52FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/ayush-srivastava049">
-  <img src="https://img.shields.io/badge/LinkedIn-7F52FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-3DDC84?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="mailto:ayush.sri0108@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-3DDC84?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-7F52FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Gmail"/>
 </a>
 
 </div>
