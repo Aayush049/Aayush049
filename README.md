@@ -11,7 +11,7 @@
 <br/><br/>
 
 <a href="https://github.com/Aayush049">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=3DDC84&background=00000000&center=true&vCenter=true&width=680&lines=%24+whoami+%E2%86%92+Android+%2B+Flutter+Developer;%24+stack+%3D+listOf(%22Kotlin%22%2C+%22Compose%22%2C+%22Flutter%22);%24+status+%E2%86%92+Compiling+ambition+into+APKs;%24+currently_building+%E2%86%92+LearnMate+AI+(team+project)" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=3DDC84&background=00000000&center=true&vCenter=true&width=680&lines=%24+whoami+%E2%86%92+Android+%2B+Flutter+Developer;%24+stack+%3D+listOf(%22Kotlin%22%2C+%22Compose%22%2C+%22Flutter%22);%24+status+%E2%86%92+Compiling+ambition+into+APKs;%24+currently_building+%E2%86%92+Wayfound+(Group+Trip+Planner)" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -128,11 +128,11 @@ dependencies {
 ║ Android Studio         ║ █████████░           ║ Advanced  ║
 ║ Flutter                ║ ██████░░░░           ║ Growing   ║
 ║ XML Layouts            ║ ████████░░           ║ Strong    ║
-║ Room / SQLite          ║ ██████░░░░           ║ Growing   ║
+║ Room / SQLite          ║ █████████░           ║ Advanced  ║
 ║ Gradle                 ║ ███████░░░           ║ Strong    ║
 ║ Java                   ║ ████████░░           ║ Strong    ║
 ║ REST APIs              ║ ██████░░░░           ║ Growing   ║
-║ Firebase               ║ █████░░░░░           ║ Learning  ║
+║ Firebase               ║ ████████░░           ║ Strong    ║
 ║ Spring Boot            ║ █████░░░░░           ║ Learning  ║
 ║ PostgreSQL / Redis     ║ █████░░░░░           ║ Learning  ║
 ║ Python                 ║ █████░░░░░           ║ Learning  ║
@@ -145,7 +145,7 @@ dependencies {
 ## `>` ls ./projects/ --details
 
 <details>
-<summary><b>☕ Brewly</b></summary>
+<summary><b>☕ Brewly</b> <sub>· cozy coffee ordering UI in Jetpack Compose</sub></summary>
 <br/>
 
 ```
@@ -168,7 +168,7 @@ DESCRIPTION:
 <br/>
 
 <details>
-<summary><b>📄 Folio</b></summary>
+<summary><b>📄 Folio</b> <sub>· offline-first document scanner & OCR app</sub></summary>
 <br/>
 
 ```
@@ -190,7 +190,7 @@ DESCRIPTION:
 <br/>
 
 <details>
-<summary><b>💰 SpendWise</b></summary>
+<summary><b>💰 SpendWise</b> <sub>· lightweight offline expense & task tracker</sub></summary>
 <br/>
 
 ```
@@ -212,7 +212,32 @@ DESCRIPTION:
 <br/>
 
 <details>
-<summary><b>🎓 LearnMate AI — Mobile Client</b> <sub>· team project</sub></summary>
+<summary><b>🗺️ Wayfound</b> <sub>· collaborative group trip planner & expense splitter</sub></summary>
+<br/>
+
+```
+PROJECT : Wayfound
+TYPE    : Flutter Application & Firebase Platform
+STACK   : Flutter · Dart · Firebase Auth · Cloud Firestore · Riverpod · GoRouter
+REPO    : https://github.com/Aayush049/wayfound
+WEB     : https://wayfound-51b4d.web.app
+
+DESCRIPTION:
+  A collaborative group trip planning and shared expense settlement
+  platform. Features real-time idea voting, drag-and-drop daily
+  itineraries, penny-accurate expense splits, and secure two-step debt
+  settlements. Available as an Android release APK and live web app.
+```
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-Wayfound-3DDC84?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Aayush049/wayfound)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Web%20App-7F52FF?style=for-the-badge&logo=firebase&logoColor=white)](https://wayfound-51b4d.web.app)
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>🎓 LearnMate AI — Mobile Client</b> <sub>· ai-powered exam prep client</sub></summary>
 <br/>
 
 ```
@@ -236,7 +261,7 @@ DESCRIPTION:
 <br/>
 
 <details>
-<summary><b>💵 Expense Tracker</b></summary>
+<summary><b>💵 Expense Tracker</b> <sub>· clean architecture console app</sub></summary>
 <br/>
 
 ```
@@ -257,7 +282,7 @@ DESCRIPTION:
 <br/>
 
 <details>
-<summary><b>🎓 Student Management System</b></summary>
+<summary><b>🎓 Student Management System</b> <sub>· student records console app</sub></summary>
 <br/>
 
 ```
@@ -323,7 +348,8 @@ DESCRIPTION:
 * 2025   │ commit  "Branched into Flutter — built SpendWise & Folio"
 * 2025   │ commit  "Started exploring Spring Boot + REST APIs"
 * 2026   │ commit  "Joined the LearnMate AI team — building the mobile client"
-* HEAD → │ commit  "Building production-ready Android applications"
+* 2026   │ commit  "Shipped Wayfound — group trip planner & expense splitter"
+* HEAD → │ commit  "Building production-ready Flutter & Android applications"
 ```
 
 ---
@@ -332,7 +358,6 @@ DESCRIPTION:
 
 | ```ayush@dev:~$ echo "Thanks for compiling this far. Let's build something great."``` |
 |:---:|
-| ```Thanks for compiling this far. Let's build something great.``` |
 | ```ayush@dev:~$ █``` |
 
 <br/>
