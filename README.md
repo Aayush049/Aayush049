@@ -11,7 +11,7 @@
 <br/><br/>
 
 <a href="https://github.com/Aayush049">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=3DDC84&background=00000000&center=true&vCenter=true&width=680&lines=%24+whoami+%E2%86%92+Android+%2B+Flutter+Developer;%24+stack+%3D+listOf(%22Kotlin%22%2C+%22Compose%22%2C+%22Flutter%22);%24+status+%E2%86%92+Compiling+ambition+into+APKs;%24+currently_building+%E2%86%92+Wayfound+(Group+Trip+Planner)" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=3DDC84&background=00000000&center=true&vCenter=true&width=680&lines=%24+whoami+%E2%86%92+Android+%2B+Flutter+Developer;%24+stack+%3D+listOf(%22Kotlin%22%2C+%22Compose%22%2C+%22Flutter%22);%24+status+%E2%86%92+Compiling+ambition+into+APKs;%24+currently_building+%E2%86%92+ReciPick+(Recipe+Discovery+App)" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -143,6 +143,29 @@ dependencies {
 ---
 
 ## `>` ls ./projects/ --details
+
+<details>
+<summary><b>🍲 ReciPick</b> <sub>· modern recipe discovery and meal preparation app</sub></summary>
+<br/>
+
+```
+PROJECT : recipick
+TYPE    : Android Application (Frontend & API Integration)
+STACK   : Kotlin · Jetpack Compose · Ktor Client · Room · Clean Architecture
+REPO    : https://github.com/Aayush049/recipick
+
+DESCRIPTION:
+  A modern recipe discovery and meal preparation application built
+  with Jetpack Compose, Kotlin, and Clean Architecture. Fetches
+  real-time culinary data from DummyJSON with cuisine filtering,
+  responsive recipe grids, and detailed nutritional metrics.
+```
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-recipick-3DDC84?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Aayush049/recipick)
+
+</details>
+
+<br/>
 
 <details>
 <summary><b>☕ Brewly</b> <sub>· cozy coffee ordering UI in Jetpack Compose</sub></summary>
@@ -349,6 +372,7 @@ DESCRIPTION:
 * 2025   │ commit  "Started exploring Spring Boot + REST APIs"
 * 2026   │ commit  "Joined the LearnMate AI team — building the mobile client"
 * 2026   │ commit  "Shipped Wayfound — group trip planner & expense splitter"
+* 2026   │ commit  "Released ReciPick — modern recipe discovery app"
 * HEAD → │ commit  "Building production-ready Flutter & Android applications"
 ```
 
